@@ -1,5 +1,7 @@
-# ProductManagerGoogleLogin
-This application allows you to login via gmail. In order to make the app up and running do the following first.
+# Introduction
+This application allows you to login via gmail. Its a simple spring boot application. 
+
+# Getting Started
 
 #Google API setup
 
@@ -26,6 +28,7 @@ Execute both the scripts.
 
 update the database username password at resources/application.yml 
 
+# Build and Test
 # Running the application.
 
 Do a mvn clean install from the base directory
@@ -42,6 +45,8 @@ Once logged in you will be able to access the application to add or remove produ
 
 ![](src/main/resources/images/ProductList.png)
 
-#Implementation Reference url
+
+# Contribute
+# Implementation Reference url
 
 https://www.codejava.net/frameworks/spring-boot/oauth2-login-with-google-example
